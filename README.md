@@ -1,3 +1,3 @@
 # factores_friccion_orificios
 
-![estoy probando](img/5.png)
+![estoy probando](images/5.png)
